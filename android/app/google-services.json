@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281048253120",
+    "project_id": "fifth-32f9a",
+    "storage_bucket": "fifth-32f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281048253120:android:3ab1bc5a6d0f639506e325",
+        "android_client_info": {
+          "package_name": "com.example.fifth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281048253120-9lg5pnd4qqqaejt2fq10hq8mm2m1bova.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCSLRXWjeZvvsleDMC_Qweodv6RxjiT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281048253120-9lg5pnd4qqqaejt2fq10hq8mm2m1bova.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
